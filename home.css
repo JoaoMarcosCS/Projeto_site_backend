@@ -1,0 +1,128 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+
+
+
+#slot-2{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0px;
+    background-color: gold;
+    padding: 0px;
+}
+
+#procurar{
+
+    width: 275px;
+    height: 400px;
+    background-color: chartreuse;
+    margin-left: -282px;
+    border: white solid 2px;
+    
+}
+
+#slide{
+
+    width: 800px;
+    border: groove black 2px ;
+    height: 400px;
+    background-color: blue;
+    
+    
+}
+
+#menus{
+
+    width: 265px;
+    height: 400px;
+    background-color: black;
+    border: white solid 1px;
+    margin-right: -280px;
+}
+
+#slot-3{
+
+    background-color: green;
+    flex-wrap: wrap;
+}
+
+caption{
+    float: left;
+    display: flex;
+    background-color: blue;
+    
+}
+
+tr{
+    flex-wrap: wrap;
+    background-color: brown;
+}
+
+img{
+    width: 120px;
+    height: 170px;
+    border: black solid 2px;
+    border-radius: 12px;
+}
+
+#galeria{
+    flex-wrap: wrap;
+}
+
+
+#boas-vindas{
+    text-shadow: 2px 2px 1px orangered;
+}
+
+#perfil{
+
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3px;
+    color: white;
+    background-color: black;
+}
+
+#config{
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#foto-perfil{
+        width: 120px;
+        height:120px;
+        border-radius: 50px;
+}
+
+#btn-config{
+
+    color: white;
+
+}
+
+#btn-config:hover{
+    opacity: 10px;
+    color: #32a83e;
+}
+
+
+
+

@@ -1,0 +1,56 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+   a{
+       text-decoration: none;
+         color:black;
+   }
+
+
+   body{
+       background-color: black;
+   }
+
+#tela{
+
+        background-color: black;
+        border-radius: 12px;
+        border: gray solid 2px;
+        height: 100%;
+        width: 500px;
+        margin-left: 100px;
+        text-align: center;
+        margin: auto;
+        margin-top: 100px;
+        align-items: center;
+        justify-content: center;
+
+}
+
+#tela_menor{
+
+    border: gray solid 2px;
+    border-radius: 12px;
+    background-color: white;
+    margin: 5px 3px 5px 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
